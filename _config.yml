@@ -16,7 +16,6 @@ exclude:
   - screenshot.png
   - vendor
 
-theme: jekyll-whiteglass
 gems:
   - jekyll-archives
   - jekyll-paginate
