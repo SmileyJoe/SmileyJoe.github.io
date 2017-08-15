@@ -1,3 +1,21 @@
+title: smileyjoe.io
+author: SmileyJoe
+description: Blog
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://SmileyJoe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+timezone: UTC
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - LICENSE.txt
+  - CHANGELOG.md
+  - jekyll-whiteglass.gemspec
+  - screenshot.png
+  - vendor
+
 theme: jekyll-whiteglass
 gems:
   - jekyll-archives
