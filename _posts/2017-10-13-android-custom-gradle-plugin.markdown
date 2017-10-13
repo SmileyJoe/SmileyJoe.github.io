@@ -5,9 +5,11 @@ date:   2017-10-13 17:27:16 +0200
 categories: android gradle plugin
 ---
 
+Using gradle plugins in your build scripts can provide alot of powerful benefits, this is a high level tutorial on how to build a custom plugin you can re-use over multiple projects.
+
 # Custom gradle plugin for Android #
 
-This is a high-level guide, for more information on almost any step, please see [afterecho's](https://afterecho.uk/blog/) fantastic blog post (linked in the [Additional Resources](#additional-resources) section).
+For more information on almost any step, please see [afterecho's](https://afterecho.uk/blog/) fantastic blog post (linked in the [Additional Resources](#additional-resources) section).
 
 ## Prep and tools ##
 
